@@ -121,9 +121,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - [Vite](https://vitejs.dev/) for the build tool
 
 
-
-Project Link: [https://github.com/sharvani-123/live-weather-app](https://github.com/sharvani-123/live-weather-app)
-
 ---
 
 ⭐ Star this repository if you found it helpful!
