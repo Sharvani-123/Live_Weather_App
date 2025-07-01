@@ -100,18 +100,6 @@ This app uses the [OpenWeatherMap API](https://openweathermap.org/api) to fetch 
 - **Error States**: User-friendly error messages
 - **Weather Icons**: Dynamic icons based on current weather conditions
 
-## 🚀 Deployment
-
-### Vercel
-1. Push your code to GitHub
-2. Connect your repository to [Vercel](https://vercel.com)
-3. Add your `VITE_WEATHER_API_KEY` environment variable
-4. Deploy!
-
-### Netlify
-1. Build the project: `npm run build`
-2. Upload the `dist` folder to [Netlify](https://netlify.com)
-3. Set environment variables in Netlify dashboard
 
 ## 🤝 Contributing
 
