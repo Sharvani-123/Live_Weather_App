@@ -37,7 +37,7 @@ Before you begin, ensure you have the following installed:
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/youruse   git clone https://github.com/yourusername/Live_Weather_App.git
+   git clone https://github.com/Sharvani-123/Live_Weather_App.git
    cd Live_Weather_App
 `bash
    npm install
@@ -72,8 +72,6 @@ src/
 │   ├── Header.jsx          # App header component
 │   ├── SearchCity.jsx      # City search form
 │   └── WeatherCard.jsx     # Weather display card
-├── context/
-│   └── WeatherContext.jsx  # Weather state management
 ├── assets/                 # Static assets
 ├── App.jsx                 # Main app component
 ├── main.jsx               # App entry point
