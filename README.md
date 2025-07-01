@@ -37,8 +37,8 @@ Before you begin, ensure you have the following installed:
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/yourusername/live-weather-app.git
-   cd live-weather-app
+   git clone https://github.com/yourusername/Live_Weather_App.git
+   cd Live_Weather_App
    ```
 
 2. **Install dependencies**
